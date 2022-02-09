@@ -1,0 +1,14 @@
+Variables
+es una manera de asignar un valor a una palabra y guardarla para utilizarla en cualquier otro momento, esto lo hacemos con la palabra var + el nombre de la variable = (lo que queremos que valga)
+
+Strings
+los strings son texto, si queremos poner en algun lado un texto tenemos que ponerlo siempre entre comillas para que se interprete como strings
+
+Funciones
+las funciones son conjuntos instrucciones que realizan una tarea o calculan una valor y siempre retornan a algo, osea siempre tienen una entrada y una salida
+
+Declaraciones
+las declaraciones son las instrucciones que le damos a las funciones y son valores, expresiones, comentarios, palabras claves etc y se pueden agrupar para que se ejecuten juntas
+
+Valor Booleano
+son valores que como retorno siempre tienen verdadero(true) o falso(false)
